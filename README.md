@@ -1,1 +1,2 @@
 # Security-using-Armstrong-Numbers-and-Colors
+The project is based on a cryptography technique that uses Armstrong numbers and color-based mappings for encryption and decryption purposes. Various modifications, like use of mathematical formulae for increasing the time efficiency for traversal of matrices, are applied to the ideas presented in the paper The techniques of chunking and multi-threading are used for mitigating the time for encryption/decryption of large files.
